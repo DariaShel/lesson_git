@@ -6,5 +6,3 @@ int main(){
 	printf("Good evning");
 }
 
-vioidfskgjhkdwgh
-
