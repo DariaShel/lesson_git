@@ -3,6 +3,7 @@
 int main(){
 	printf("Hello world");
 	printf("I'm Dasha");
-	printf("Good evening");
+	printf("Good evning");
+	printf("Привет");
 }
 
