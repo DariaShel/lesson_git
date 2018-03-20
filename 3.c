@@ -5,6 +5,7 @@ int main(){
 	printf("I'm Dasha");
 	printf("Good evning");
 	printf("Привет");
-	printf("Привет еще раз");
+	printf("Привет22");
+
 }
 
